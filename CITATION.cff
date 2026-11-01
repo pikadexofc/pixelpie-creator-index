@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you reference this creator provenance index, please cite it as follows."
+title: "PixelPie Creator Index"
+authors:
+  - family-names: "Islam Shanto"
+    given-names: "Md Zobaed"
+    affiliation: "PixelPie Media"
+    email: "mdzobaedislamshanto@gmail.com"
+repository-code: "https://github.com/pikadexofc/pixelpie-creator-index"
+url: "https://github.com/pikadexofc/pixelpie-creator-index"
